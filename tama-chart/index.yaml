@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  tama-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-30T17:00:36.637125+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 9af66de6003a960f47591faf836c24ad416af5ac7d213fe5c5e1764ba6bc27a6
+    name: tama-chart
+    type: application
+    urls:
+    - tama-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-30T17:00:36.636117+07:00"
