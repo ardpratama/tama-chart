@@ -3,7 +3,17 @@ entries:
   tama-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-30T17:00:36.637125+07:00"
+    created: "2024-05-16T13:59:22.679965+07:00"
+    description: A Helm chart for Kubernetes
+    digest: eeadce9ed23382edd37b5a77bfc6c783d990a1e01bf06ee3c3d63f85de046224
+    name: tama-chart
+    type: application
+    urls:
+    - tama-chart/tama-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-16T13:59:22.679529+07:00"
     description: A Helm chart for Kubernetes
     digest: 9af66de6003a960f47591faf836c24ad416af5ac7d213fe5c5e1764ba6bc27a6
     name: tama-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - tama-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-30T17:00:36.636117+07:00"
+generated: "2024-05-16T13:59:22.678119+07:00"
